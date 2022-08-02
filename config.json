@@ -1,0 +1,6 @@
+{
+    "server" : "smtp.gmail.com",
+    "port" : "465",
+    "email" : "your_email",
+    "pwd" : "password"
+}
